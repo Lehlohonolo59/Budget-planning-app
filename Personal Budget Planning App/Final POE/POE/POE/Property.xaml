@@ -1,0 +1,32 @@
+﻿<Window x:Class="POE.Property"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:POE"
+        mc:Ignorable="d"
+        Title="Property" Height="488.451" Width="636.582" Background="WhiteSmoke">
+    <Grid Margin="0,0,18.333,-19.333">
+        <Grid Margin="0,10,-0.333,26.666">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" FontFamily="Arial"
+               FontWeight="Bold" Foreground="CadetBlue" FontSize="30" Grid.ColumnSpan="4" Margin="179,15,-527,224" Grid.RowSpan="4">
+                Property options
+            </Label>
+            <Button x:Name="btnRent" Content="Renting" FontSize="30" FontFamily="Georgia" FontWeight="DemiBold" Foreground="DarkSlateBlue" Background="AliceBlue" Margin="177,93,-409.333,138.333" Grid.Column="3" Grid.Row="3" Click="btnRent_Click"/>
+            <Button x:Name="btnBuy" Content="Buying" FontSize="30" FontFamily="Georgia" FontWeight="DemiBold" Foreground="DarkSlateBlue" Background="AliceBlue" Margin="177,187,-409.333,0" Grid.Row="3" Grid.Column="3" Height="87" VerticalAlignment="Top" Click="btnBuy_Click" />
+            <Button x:Name="btnBck" Content="Back" FontSize="30" FontFamily="Georgia" FontWeight="DemiBold" Foreground="DarkSlateBlue" Background="AliceBlue" Margin="177,326,-409.333,-112.333" Grid.Row="3" Grid.Column="3" Click="btnBck_Click"/>
+        </Grid>
+    </Grid>
+</Window>

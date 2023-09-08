@@ -1,0 +1,87 @@
+C:\Users\Lehlohonolo\source\repos\POE\POE\bin\Debug\POE.exe.config
+C:\Users\Lehlohonolo\source\repos\POE\POE\bin\Debug\POE.exe
+C:\Users\Lehlohonolo\source\repos\POE\POE\bin\Debug\POE.pdb
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\Buying.g.cs
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\MainWindow.g.cs
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\Property.g.cs
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\Rent.g.cs
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\App.g.cs
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\POE_MarkupCompile.cache
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\POE_MarkupCompile.lref
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\Buying.baml
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\MainWindow.baml
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\Property.baml
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\Rent.baml
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\POE.g.resources
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\POE.Properties.Resources.resources
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\POE.csproj.GenerateResource.cache
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\POE.exe
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\POE.pdb
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\DisplayReport.g.cs
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\Vehicle.g.cs
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\VehicleOption.g.cs
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\DisplayReport.baml
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\Vehicle.baml
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\VehicleOption.baml
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\SavingsCal.g.cs
+C:\Users\Lehlohonolo\source\repos\POE\POE\obj\Debug\SavingsCal.baml
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\bin\Debug\POE.exe.config
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\bin\Debug\POE.exe
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\bin\Debug\POE.pdb
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\Buying.g.cs
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\DisplayReport.g.cs
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\MainWindow.g.cs
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\Property.g.cs
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\Rent.g.cs
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\SavingsCal.g.cs
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\Vehicle.g.cs
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\VehicleOption.g.cs
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\App.g.cs
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\POE_MarkupCompile.cache
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\POE_MarkupCompile.lref
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\Buying.baml
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\DisplayReport.baml
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\MainWindow.baml
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\Property.baml
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\Rent.baml
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\SavingsCal.baml
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\Vehicle.baml
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\VehicleOption.baml
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\POE.g.resources
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\POE.Properties.Resources.resources
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\POE.csproj.GenerateResource.cache
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\POE.exe
+C:\Users\sethi\Downloads\Final POE (1)\Final POE\POE\POE\obj\Debug\POE.pdb
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\bin\Debug\POE.exe.config
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\bin\Debug\POE.exe
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\bin\Debug\POE.pdb
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\Buying.g.cs
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\DisplayReport.g.cs
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\MainWindow.g.cs
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\Property.g.cs
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\Rent.g.cs
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\SavingsCal.g.cs
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\Vehicle.g.cs
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\VehicleOption.g.cs
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\App.g.cs
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\POE_MarkupCompile.cache
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\POE_MarkupCompile.lref
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\Buying.baml
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\DisplayReport.baml
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\MainWindow.baml
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\Property.baml
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\Rent.baml
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\SavingsCal.baml
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\Vehicle.baml
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\VehicleOption.baml
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\POE.g.resources
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\POE.Properties.Resources.resources
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\POE.csproj.GenerateResource.cache
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\POE.exe
+F:\Projects(2022)\C#0.1\Personal Budget Planning App\Final POE\POE\POE\obj\Debug\POE.pdb

@@ -1,0 +1,60 @@
+﻿<Window x:Class="POE.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:POE"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="663" Width="828" Background="WhiteSmoke" >
+
+    <!-- <Image Source="C:\Users\Lehlohonolo\OneDrive\Pictures\Wallpapers\orsrc24350.jpg" />-->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" FontFamily="Arial"
+               FontWeight="Bold" Foreground="CadetBlue" FontSize="20" Margin="10,15,10,88" Grid.Column="1">
+            Buget application
+        </Label>
+        <Label Grid.Row="0" FontFamily="Arial"
+               FontWeight="Bold" Foreground="CadetBlue" FontSize="20" Margin="20,57,183,56" Grid.ColumnSpan="2">
+            Enter your income and tax
+        </Label>
+        <Label Content="Income " 
+               Grid.Column="0" FontSize="20" Foreground="CadetBlue" FontWeight="SemiBold" Margin="12,104,122,18"/>
+        <Label Content="Tax" Grid.Row="1" 
+               Grid.Column="0" FontSize="20" Foreground="CadetBlue" FontWeight="SemiBold" Margin="21,5,177,116"/>
+        <TextBox x:Name="tboxIncome" FontSize="20"  BorderBrush="DarkBlue" BorderThickness="5" Margin="123,109,12,13"  Background="#FF9DA3D1"/>
+        <TextBox x:Name="tboxTax" Grid.Row="1"  FontSize="20" BorderBrush="DarkBlue" BorderThickness="5" Margin="114,5,12,117" Background="#FF9DA3D1"/>
+        <Label  FontFamily="Arial"
+               FontWeight="Bold" Foreground="CadetBlue" FontSize="20" Margin="19,54,10,54" Grid.Row="1">
+            Enter your expenses
+        </Label>
+        <Label Content="Groceries: " FontSize="20" Foreground="CadetBlue" FontWeight="SemiBold" Margin="21,96,127,25" Grid.Row="1"/>
+        <TextBox x:Name="tbox_Groc" FontSize="20" Background="#FF9DA3D1" BorderBrush="DarkBlue" BorderThickness="5" Margin="142,96,45,24" Grid.Row="1" />
+        <Label Content="Water And Lights: " FontSize="20" Foreground="CadetBlue" FontWeight="SemiBold" Margin="259,96,16,23" Grid.Row="1" Grid.ColumnSpan="2" />
+        <TextBox x:Name="tbox_WAndL" FontSize="20" Background="#FF9DA3D1" BorderBrush="DarkBlue" BorderThickness="5" Margin="198,99,189,23" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Label Content="Travel (Including petrol): " FontSize="20" Foreground="CadetBlue" FontWeight="SemiBold" Grid.Row="1" Margin="4,158,12,112" Grid.RowSpan="2"/>
+        <TextBox x:Name="tbox_Trav" FontSize="20" Background="#FF9DA3D1" BorderBrush="DarkBlue" BorderThickness="5" Margin="264,1,95,114" Grid.Row="2" Grid.ColumnSpan="2"/>
+        <Label Content="Cell phone and telephone: " FontSize="20" Foreground="CadetBlue" FontWeight="SemiBold" Margin="5,55,5,55" Grid.Row="2"/>
+        <TextBox x:Name="tbox_CellAndTele" FontSize="20" Background="#FF9DA3D1" BorderBrush="DarkBlue" BorderThickness="5" Margin="17,58,41,58" Grid.Column="1" Grid.Row="2"/>
+        <Label Content="Other expenses: " FontSize="20" Foreground="CadetBlue" FontWeight="SemiBold" Margin="10,109,46,151" Grid.Row="2" Grid.RowSpan="2"/>
+        <TextBox x:Name="tbox_OtherExp" FontSize="20" Background="#FF9DA3D1" BorderBrush="DarkBlue" BorderThickness="5" Margin="189,116,166,156" Grid.Row="2" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Button x:Name="btnCost" Content="Total Cost Of Expenses" Grid.Row="3" FontSize="20" FontFamily="Georgia" FontWeight="DemiBold" Foreground="DarkSlateBlue" Background="AliceBlue" Margin="14,59,14,59" Click="btnExp_Click" />
+        <Label FontFamily="Arial"
+               FontWeight="Bold" Foreground="CadetBlue" FontSize="20" Margin="10,35,0,77" Grid.Column="2" Grid.Row="3">
+            Click the next button to contiune
+        </Label>
+        <Button x:Name="btnNxt" Content="Next" Grid.Column="2" Margin="79,82,69,43" FontSize="20" Grid.Row="3" FontFamily="Georgia" FontWeight="DemiBold" Foreground="DarkSlateBlue" Background="AliceBlue" Click="btnNxt_Click" />
+    </Grid>
+
+</Window>
